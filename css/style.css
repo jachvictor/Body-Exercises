@@ -1,0 +1,17 @@
+h1 {
+  background-color: red;
+}
+h2 {
+  background-color: blue;
+}
+h3 {
+  background: yellow;
+}
+nav {
+  height: 50px;
+  background-color: green;
+}
+.exer {
+  height: 1000px;
+  width: 1300px;
+}
